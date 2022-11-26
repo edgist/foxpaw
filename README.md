@@ -9,7 +9,7 @@
 
 ```shell
 程序
-rm -rf /opt/firefox /usr/bin/firefox /usr/share/applications/firefox.desktop
+rm -rf ~/.local/share/firefox /usr/bin/firefox /usr/share/applications/firefox.desktop
 
 配置文件
 rm -rf ~/.mozilla/firefox ~/.cache/mozilla/firefox
