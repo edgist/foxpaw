@@ -3,7 +3,7 @@
 
 #### 安装
 
-`sh -c "$(curl -SsL https://cdn.jsdelivr.net/gh/inkubur/foxpaw/install.sh)"`
+`sh -c "$(curl -SsL https://cdn.jsdelivr.net/gh/edgist/foxpaw/install.sh)"`
 
 #### 删除
 
