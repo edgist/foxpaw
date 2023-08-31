@@ -5,4 +5,4 @@ curl -SL https://download.mozilla.org/\?product\=firefox-latest-ssl\&os\=linux64
 
 sudo ln -s ~/.local/share/firefox/firefox /usr/bin/firefox
 
-sudo curl -SL https://cdn.jsdelivr.net/gh/inkubur/foxpaw/firefox.desktop -o /usr/share/applications/firefox.desktop
+sudo curl -SL https://cdn.jsdelivr.net/gh/edgist/foxpaw/firefox.desktop -o /usr/share/applications/firefox.desktop
